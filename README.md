@@ -5,16 +5,12 @@ This project aims to extract the data analyst related job postings from Indeed a
 Dependencies:
 
 Python
-
 Beautiful Soup 
-
 selenium
-
 pandas
-
 matplotlib
-
 NLTK 
+
 
 First, I scraped 500 job postings related to data analyst in Canada from Indeed. Saved them as a DataFrame and then convert it to a CSV file.
 
