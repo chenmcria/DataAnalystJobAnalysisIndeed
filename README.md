@@ -1,0 +1,3 @@
+# DataAnalystJobAnalysisIndeed
+
+First, I 
