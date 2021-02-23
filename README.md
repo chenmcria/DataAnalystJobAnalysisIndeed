@@ -20,7 +20,10 @@ Second, I applied NLTK to perform keyword or phrase extraction. Then, I performe
 
 Results:
 Top 3 educational backgrouds for data analyst: Statistics, Computer Science, Marketing
+
 Top 3 softwares used by data analyst: Tableau, Power BI,SAS
+
 Top 3 progamming languages for data analyst: SQL, Python, Java
-Competences for data analyst: analysis, communication, presentation
+
+Competences for data analyst: data analysis, data visualization, communication, presentation
 
